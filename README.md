@@ -22,13 +22,13 @@
 ### 1. 克隆仓库（或下载脚本）
 
 ```bash
-git clone https://github.com/<your-username>/proxy_manager.git ~/tool
+git clone https://github.com/leo6211/proxy_manager.git
 ```
 
 或者直接下载脚本文件：
 
 ```bash
-curl -o ~/tool/proxy_manager.sh https://raw.githubusercontent.com/<your-username>/proxy_manager/main/proxy_manager.sh
+curl -o ~/tool/proxy_manager.sh https://raw.githubusercontent.com/leo6211/proxy_manager/main/proxy_manager.sh
 ```
 
 ### 2. 集成到 Zsh（`.zshrc`）
